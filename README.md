@@ -10,7 +10,7 @@ Steps to run :
 
 4. run the 'rpsls.html' file.
 
-5. See the figure below and create the dataset by capturing your hand gestures.
+5. See the figure in the image folder and create the dataset by capturing your hand gestures.
 
 6. Click on train network to train your model.
 
